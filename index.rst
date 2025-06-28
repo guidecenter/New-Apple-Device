@@ -16,17 +16,17 @@ Visit `activate.apple.com <#>`_ to activate your new Apple device quickly and se
 
     </div>
 
-Activate Your New Apple Device – Step-by-Step Guide
+Step-by-Step Guide to Activate Your New Apple Device 
 ===================================================
 
 Activating your new Apple device is quick and easy using activate.apple.com. This official Apple site guides you through verifying your device and linking it to your Apple ID for secure setup. Whether it’s an iPhone, iPad, or Mac, simply connect to the internet and follow the on-screen instructions at activate.apple.com to get started. With just a few steps, your device will be ready to use, ensuring you have access to all Apple services and features. Activate today at activate.apple.com and enjoy your new device hassle-free!
 
-1. What is activate.apple.com?
+What is activate.apple.com?
 ------------------------------
 
 activate.apple.com is the official Apple activation portal used when setting up your device for the first time or after resetting it. This site helps verify your device’s identity and ensures it’s ready to use with your Apple ID and carrier.
 
-2. Step-by-Step Activation Process
+Step-by-Step Activation Process
 ----------------------------------
 
 **Step 1: Power On Your Device**  
@@ -63,7 +63,7 @@ You’ll be prompted to create a passcode and set up Face ID or Touch ID for sec
 
 You can choose to restore from an iCloud or iTunes backup, transfer data from another device, or set up your new Apple device as fresh.
 
-3. Tips for a Smooth Activation
+Tips for a Smooth Activation
 -------------------------------
 
 - Ensure your internet connection is strong and stable during activation.  
@@ -72,12 +72,12 @@ You can choose to restore from an iCloud or iTunes backup, transfer data from an
 - Disable VPNs or firewalls temporarily if activation fails.  
 - If activation lock appears, sign in with the Apple ID originally linked to the device.
 
-4. My Experience Activating a New Apple Device
+My Experience 
 ----------------------------------------------
 
 When I got my new iPhone, I was pleasantly surprised by how smooth the activation process was. From powering it on to signing in with my Apple ID, everything felt intuitive and fast. Connecting to Wi-Fi was the only real requirement, and once that was done, the device activated almost instantly. The step where I could restore data from my old phone made transitioning super easy, and setting up Face ID was quick and reliable.
 
-5. FAQs
+FAQs
 -------
 
 **Q1: What is activate.apple.com used for?**  
