@@ -10,7 +10,7 @@ Visit `activate.apple.com <#>`_ to activate your new Apple device quickly and se
 
 .. image:: Button.png
    :alt: activate.apple.com
-   :target: https://fm.ci/?aHR0cHM6Ly9hcHBsZWRldmljZWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://sites.google.com/view/activateapple-com/
 
 .. raw:: html
 
